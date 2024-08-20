@@ -11,6 +11,7 @@
   "image": "tileboard/tileboard-addon-{arch}",
   "ingress": true,
   "homeassistant_api": true,
+  "panel_admin": false,
   "arch": [
     "armhf",
     "armv7",
